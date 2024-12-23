@@ -1,8 +1,1 @@
-ls – Listing files and directories
-cd – Navigating between directories
-cat – Viewing file contents
-grep – Searching for patterns in files
-cp – Copying files and directories
-sudo – Running commands with admin permissions
-su – Switching users (root access)
-User & Multi-user Authentication – Managing user access and security 🔐
+
