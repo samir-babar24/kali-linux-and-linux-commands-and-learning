@@ -1,1 +1,10 @@
-
+ls – Lists files and directories in the current directory.
+cd – Navigates between directories.
+cat – Displays the contents of a file.
+grep – Searches for patterns in files.
+cp – Copies files and directories.
+sudo – Runs commands with administrative privileges.
+su – Switches users (commonly to root).
+User & Multi-user Authentication – Commands for managing users and their access:
+adduser – Adds a new user.
+passwd – Changes the password for a user.
