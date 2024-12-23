@@ -1,0 +1,29 @@
+Regular Expressions – Used for text pattern matching in various commands like grep, sed, and awk.
+Examples:
+
+grep 'pattern' file.txt
+sed 's/pattern/replacement/' file.txt
+Environment Variables – Manage system and user-specific variables.
+Commands:
+
+echo $VARIABLE_NAME – View the value of a variable.
+export VARIABLE_NAME=value – Set a variable for the current session.
+env – Lists all environment variables.
+User Permissions – Set or modify file/directory permissions.
+Commands:
+
+chmod – Change file permissions (e.g., chmod 755 file.txt).
+chown – Change file ownership (e.g., chown user:group file.txt).
+sudo apt-get install & Packages – Install and manage software packages.
+Commands:
+
+sudo apt-get update – Update package lists.
+sudo apt-get install package_name – Install a package.
+sudo apt-get remove package_name – Remove a package.
+Working with tar Files – Archive and extract files.
+Commands:
+
+tar -cvf archive.tar file1 file2 – Create an archive.
+tar -xvf archive.tar – Extract an archive.
+tar -czvf archive.tar.gz file1 file2 – Create a compressed archive.
+tar -xzvf archive.tar.gz – Extract a compressed archive.
